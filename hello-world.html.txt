@@ -1,3 +1,0 @@
-Ola, sou o Felipe aluno da turma turing do alpha ed/tech.
-
-TESTE: á ã ç outros
